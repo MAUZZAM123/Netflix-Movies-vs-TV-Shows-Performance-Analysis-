@@ -1,3 +1,6 @@
+![image alt](https://github.com/MAUZZAM123/Netflix-Movies-vs-TV-Shows-Performance-Analysis-/blob/3c12bee143789a71819a4d9be24f9d91a02b4fcf/Screenshot%202025-09-15%20234315.jpg)
+
+
 # Netflix-Movies-vs-TV-Shows-Performance-Analysis-
 
 Project Overview
